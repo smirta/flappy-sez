@@ -68,4 +68,5 @@ insert coin to continue
 insert your initials here
 yo its 3030
 da automataz
-anno mm
+condita anno domini mm
+founded in auc 2753
